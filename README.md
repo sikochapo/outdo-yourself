@@ -1,4 +1,4 @@
-<img src="images/Out-do-yourself-white.png" align="right" />
+<img src="images\Out-do-youself-big.png" align="right" />
 
 # Out Do Yourself
 > In a world where self doubt, confusion, and loss of direction is the order of the day, Out Do Yourself!!!
